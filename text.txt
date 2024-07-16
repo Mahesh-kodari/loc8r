@@ -1,0 +1,9 @@
+node --version
+npm --versionnpm install --g express-generator
+Express --version
+Set-ExecutionPolicy -Scope CurrentUser
+Bypass
+Expressnpm install npm audit fix --force
+SET DEBUG=23eg507c03:* ; npm start
+
+open localhost: 3000
